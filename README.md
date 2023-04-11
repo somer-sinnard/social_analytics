@@ -5,7 +5,7 @@ Our group addressed the following questions through our analysis and in the pres
 2. What words are used together in a tweet most often? 
 3. What words are positively correlated? 
 4. In general, what were people’s attitudes towards her passing? 
-5. What part of speech made up the tweets?
+5. What parts of speech made up the tweets?
 6. What similar words occur?
 7. What are the public's feelings toward the Queen’s death compared to King Charles' coronation?
 8. What trends exist in the user interactions on the day of her death?
