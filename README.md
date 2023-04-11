@@ -1,15 +1,15 @@
 For our final project in our Social Analytics course, my group analyzed a collection of tweets posted the day of Queen Elizabeth's death. Our dataset came from Kaggle at: https://www.kaggle.com/datasets/welcomehere/death-of-the-queen
 
 Our group addressed the following questions through our analysis and in the presentation file Project Presentation.ppt:
-    1. What words were most frequently used? 
-    2. What words are used together in a tweet most often? 
-    3. What words are positively correlated? 
-    4. In general, what were people’s attitudes towards her passing? 
-    5. What part of speech made up the tweets?
-    6. What similar words occur?
-    7. What are the public's feelings toward the Queen’s death compared to King Charles' coronation?
-    8. What trends exist in the user interactions on the day of her death?
-    9. Who were the most influential users on the day of her death?
+1. What words were most frequently used? 
+2. What words are used together in a tweet most often? 
+3. What words are positively correlated? 
+4. In general, what were people’s attitudes towards her passing? 
+5. What part of speech made up the tweets?
+6. What similar words occur?
+7. What are the public's feelings toward the Queen’s death compared to King Charles' coronation?
+8. What trends exist in the user interactions on the day of her death?
+9. Who were the most influential users on the day of her death?
 
 My personal responsibilities for this project included:
 
